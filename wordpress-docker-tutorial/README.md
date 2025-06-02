@@ -1,4 +1,4 @@
-# wordpress-docker-tutorial
+# wordpress-docker
 Tutorial wordpress in docker conatiner example
 
 # Start docker in your machine
